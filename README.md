@@ -5,6 +5,9 @@
 # Sobre o projeto
 
 Projeto desenvolvido com inspiração na interface do Spotify, com foco em explorar o uso da API através do json-server, implementar CSS responsivo e realizar a manipulação do DOM no JavaScript.
+Link do Projeto:
+https://amanda-hatayama.github.io/spotify-imersao-alura/
+
 📽️🍿 Vídeo demonstrativo:
 
 
